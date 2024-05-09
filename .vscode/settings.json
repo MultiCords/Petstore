@@ -21,6 +21,6 @@
     "java.project.referencedLibraries": [],
     "files.autoSave": "onWindowChange",
     "java.test.config": {
-        "args": [jsonc]
+        "args": []
     }
 }
