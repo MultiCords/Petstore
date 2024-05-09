@@ -13,5 +13,6 @@
             "statusBarVisibility": "inherit",
             "inheritDefault": "visible"
         }
-    }
+    },
+    "java.project.explorer.showNonJavaResources": false
 }

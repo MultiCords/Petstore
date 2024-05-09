@@ -1,7 +1,5 @@
 #-------------------------------------------------------------------------------#
-#               Qodana analysis is configured by qodana.yaml file               #
-	@FindBy(css="")
-	private WebElement webElement;
+#               Qodana analysis is configured by qodana.yaml file
 #             https://www.jetbrains.com/help/qodana/qodana-yaml.html            #
 #-------------------------------------------------------------------------------#
 version: "1.0"
