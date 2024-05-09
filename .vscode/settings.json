@@ -14,5 +14,9 @@
             "inheritDefault": "visible"
         }
     },
-    "java.project.explorer.showNonJavaResources": false
+    "java.project.explorer.showNonJavaResources": false,
+    "java.project.sourcePaths": [
+        ".github\\workflows"
+    ],
+    "java.project.referencedLibraries": []
 }
