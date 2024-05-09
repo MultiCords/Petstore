@@ -1,0 +1,48 @@
+{
+	"folders": [],
+	"settings": {
+		"cmake.options.advanced": {
+
+			"build": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			},
+			"launch": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			},
+			"debug": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "visible"
+			}
+		},
+		"java.project.explorer.showNonJavaResources": false,
+		"java.project.sourcePaths": [
+			".github\\workflows"
+		],
+		"java.project.referencedLibraries": [],
+		"cmake.options.statusBarVisibility": "visible",
+		"cmake.outputLogEncoding": "cmake --build",
+		"cmake.preferredGenerators": [
+		
+		],
+		"github-actions.use-enterprise": true,
+		"github-actions.workflows.pinned.refresh.enabled": true,
+		"html.format.contentUnformatted": "pre,code,textarea",
+		"html.format.unformatted": "wbr",
+		"application.experimental.rendererProfiling": true,
+		"C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
+		"ipynb.pasteImagesAsAttachments.enabled": true,
+		"github.copilot.advanced": {
+			"authProvider": "github",
+			"debug.testOverrideProxyUrl": "",
+		},
+		"docker.commands.composeUpSubset": [
+
+			{
+				"label": "Compose Up",
+				"template": "${composeCommand} ${profileList} ${configurationFile} up ${detached} ${build} ${serviceList}"
+			}
+		]
+	}
+}
