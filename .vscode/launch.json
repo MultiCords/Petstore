@@ -24,10 +24,10 @@
         },
         {
             "name": "Launch Chrome",
-            "request": "launch",
+            "request": "attach",
             "type": "chrome",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "/app.js"
         },
         
         {
